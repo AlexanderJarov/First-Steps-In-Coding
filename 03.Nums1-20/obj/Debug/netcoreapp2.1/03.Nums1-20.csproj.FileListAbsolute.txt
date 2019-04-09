@@ -1,0 +1,10 @@
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\bin\Debug\netcoreapp2.1\03.Nums1-20.deps.json
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\bin\Debug\netcoreapp2.1\03.Nums1-20.runtimeconfig.json
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\bin\Debug\netcoreapp2.1\03.Nums1-20.runtimeconfig.dev.json
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\bin\Debug\netcoreapp2.1\03.Nums1-20.dll
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\bin\Debug\netcoreapp2.1\03.Nums1-20.pdb
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\obj\Debug\netcoreapp2.1\03.Nums1-20.csproj.CoreCompileInputs.cache
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\obj\Debug\netcoreapp2.1\03.Nums1-20.AssemblyInfoInputs.cache
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\obj\Debug\netcoreapp2.1\03.Nums1-20.AssemblyInfo.cs
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\obj\Debug\netcoreapp2.1\03.Nums1-20.dll
+C:\Users\Jarov\source\repos\01. Hello SoftUni\03.Nums1-20\obj\Debug\netcoreapp2.1\03.Nums1-20.pdb
